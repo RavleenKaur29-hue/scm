@@ -1,2 +1,2 @@
-This is new repository.
+This is new repository. 
 Make some changes in it.
